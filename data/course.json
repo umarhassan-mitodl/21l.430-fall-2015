@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "fa9fe5e6-d37c-06d1-16b4-e448f18bf155",
+  "instructors": {
+    "content": [
+      "cfbc11b0-c16b-a827-c738-dc358700fa62"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4fef6e3d-7378-2509-19b9-1c418a426a21",
+    "website": "21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015"
+  },
+  "course_title": "Popular Culture and Narrative: Use and Abuse of the Fairy Tale",
+  "hide_download": true,
+  "course_description": "This course takes a deep look at a big subject. We ask where Fairy Tales come from and we examine the structure of Fairy Tales. We'll also look at how Fairy Tales are conditioned by oral transmission and inherited story-telling techniques.\n",
+  "department_numbers": [
+    "21L",
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.920",
+  "primary_course_number": "21L.430",
+  "course_image_thumbnail": {
+    "content": "9cce2983-e430-b4ed-189c-33297558259e",
+    "website": "21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "d14bb99f-490f-45ed-b434-233ee7d98bf5",
+  "site_short_id": "21l.430-fall-2015",
+  "site_url_path": "courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015",
+  "title": "Course Metadata"
+}
