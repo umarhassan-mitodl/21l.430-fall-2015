@@ -3,8 +3,6 @@ content_type: page
 description: This section provides citations for required course texts and the schedule
   of readings by session and topic. Links to online versions of some of the readings
   are also provided.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,23 +16,23 @@ The required texts are as follows:
 
  Lord, Albert B. _The Singer of Tales_. 2nd ed. Edited by Stephen Mitchell and Gregory Nagy. Harvard University Press, 2000. ISBN: 9780674002838.
 
-\[P\] = Propp, Vladimir Yakovlevich. _The Russian Folktale by Vladimir Yakovlevich Propp_. Edited by Sibelan Forrester. Wayne State University Press, 2012. ISBN: 9780814334669. \[Preview with [Google Books](http://books.google.com/books?id=oxX3vmLVtMMC&printsec=frontcover)\]
+\[P\] = Propp, Vladimir Yakovlevich. _The Russian Folktale by Vladimir Yakovlevich Propp_. Edited by Sibelan Forrester. Wayne State University Press, 2012. ISBN: 9780814334669. \[Preview with {{% resource_link "622189e1-dd06-44a3-9856-784598825e02" "Google Books" %}}\]
 
-\[PV\] = ———. _Morphology of the Folktale_. 2nd ed. Edited by Louis A. Wagner. University of Texas Press, 1968. ISBN: 9780292783768. \[Preview with [Google Books](http://books.google.com/books?id=3Md3u9UPgOEC&printsec=frontcover)\]
+\[PV\] = ———. _Morphology of the Folktale_. 2nd ed. Edited by Louis A. Wagner. University of Texas Press, 1968. ISBN: 9780292783768. \[Preview with {{% resource_link "76472814-86a8-4382-a96a-f9674cab1cf9" "Google Books" %}}\]
 
-\[K\] = Kirk, Robert. _The Secret Commonwealth of Elves, Fauns and Fairies_. Edited by Andrew Lang and Introduction by R. B. Cunninghame Graham. Dover Publications, 2008. ISBN: 9780486466118. \[Preview with [Google Books](http://books.google.com/books?id=m79IAwAAQBAJ&printsec=frontcover)\]
+\[K\] = Kirk, Robert. _The Secret Commonwealth of Elves, Fauns and Fairies_. Edited by Andrew Lang and Introduction by R. B. Cunninghame Graham. Dover Publications, 2008. ISBN: 9780486466118. \[Preview with {{% resource_link "0276c3fb-6eda-4b29-871a-60bcfa57400b" "Google Books" %}}\]
 
 \[B\] = Bettelheim, Bruno. _The Uses of Enchantment: The Meaning and Importance of Fairy Tales_. Vintage, 1975, and later edns.
 
-\[V\] = von Franz, Marie–Louise. _The Interpretation of Fairy Tales_. Shambhala Revised Sub Edition, 1996. ISBN: 9780877735267. \[Preview with [Google Books](http://books.google.com/books?id=CkD0I8frGYkC&printsec=frontcover)\]
+\[V\] = von Franz, Marie–Louise. _The Interpretation of Fairy Tales_. Shambhala Revised Sub Edition, 1996. ISBN: 9780877735267. \[Preview with {{% resource_link "ba7469ea-80b4-4440-afc0-e2305425845b" "Google Books" %}}\]
 
 \[K\] = Kamanetsky, Christa. _Children's Literature in Hitler's Germany: The Cultural Policy of National Socialism_. Ohio University Press, 1984. ISBN: 9780821406991.
 
-Macdonald, Dwight. ["A Theory of Mass Culture." (PDF)](http://is.muni.cz/el/1421/jaro2008/ESB032/um/5136660/MacDonald_-_A_Theory_of_Mass_Culture.pdf) _Diogenes_, no. 3 (1953): 1–17. (Originally published in Diogenes 1953 1: 1)
+Macdonald, Dwight. {{% resource_link "c932ff67-5afa-4886-a08e-89597bb5d4ea" "\"A Theory of Mass Culture.\" (PDF)" %}} _Diogenes_, no. 3 (1953): 1–17. (Originally published in Diogenes 1953 1: 1)
 
 \[C\] = Carter, Angela. _The Bloody Chamber and Other Stories_. Penguin Books, 1990. ISBN: 9780140178210.
 
-Online resource: [Multilingual Folk Tale Database](http://www.mftd.org/index.php?action=atu)
+Online resource: {{% resource_link "b249e3b6-f4c6-41df-87dd-25a4329c0a83" "Multilingual Folk Tale Database" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -166,13 +164,13 @@ Robert Kirk and Celtic Fairy–belief Concluded
 
 \[K\] "A Succinct Account of My Lord Tarbett's Relations in a Letter to the Honourable Robert Boyle, Esquire, of the Predictions made by Seers." Pp. 63–84.
 
- Henderson, L., and E. J. Cowan. _Scottish Fairy Belief_. Tuckwell Press, Limited, 2001. ISBN: 9781862321908. \[Preview with [Google Books](http://books.google.com/books?id=IokHsI7y008C&printsec=frontcover)\]
+ Henderson, L., and E. J. Cowan. _Scottish Fairy Belief_. Tuckwell Press, Limited, 2001. ISBN: 9781862321908. \[Preview with {{% resource_link "dc84d578-802e-4ae0-bc97-b1ade2e33233" "Google Books" %}}\]
 
  Evans–Wentz, Walter. _The Fairy Faith in Celtic Countries_. University of California Libraries, 1911.
 
-Quiller–Couch, Arthur. "[Thomas the Rhymer](http://www.bartleby.com/243/1.html)." _The Oxford Book of Ballads_, 1910.
+Quiller–Couch, Arthur. "{{% resource_link "84816e0c-d917-40e3-855a-18766316c532" "Thomas the Rhymer" %}}." _The Oxford Book of Ballads_, 1910.
 
-Child, Francis James. "[Tam Lin: 39A](http://tam-lin.org/versions/39A.html)." _The English and Scottish Popular Ballads_, 1882–1898.
+Child, Francis James. "{{% resource_link "6dc23544-26e4-4fc8-a752-856dde2d4e84" "Tam Lin: 39A" %}}." _The English and Scottish Popular Ballads_, 1882–1898.
 
 
 {{< tdclose >}}
@@ -188,9 +186,9 @@ Bruno Bettelheim: _The Uses of Enchantment_; Freudian Theory and the Fairy Tale
 {{< tdopen >}}
 
 
-McLeod, Saul. "[Sigmund Freud](http://www.simplypsychology.org/Sigmund-Freud.html)." _SimplyPsychology_ 2013.
+McLeod, Saul. "{{% resource_link "b2e98ccd-7985-45a3-ad5d-35234dcd0b95" "Sigmund Freud" %}}." _SimplyPsychology_ 2013.
 
-"[Sigmund Freud](http://www.victorianweb.org/science/freud/)." _The Victorian Web_. 1998. (With particular reference to sexuality and the role of the unconscious)
+"{{% resource_link "200244d3-575d-4ead-97e0-4fe8e0fab446" "Sigmund Freud" %}}." _The Victorian Web_. 1998. (With particular reference to sexuality and the role of the unconscious)
 
 \[B\] "Introduction." Pp. 3–19.
 
@@ -232,9 +230,9 @@ Bettelheim Concluded
 
 \[B\] "Snow White and the Myth of Oedipus." Pp. 199–215.
 
-Dundes, Alan. "[Bruno Bettelheim's Uses of Enchantment and Abuses of Scholarship](http://www.jstor.org/stable/541135)." _The Journal of American Folklore_ 104, no. 411 (1991): 74–83.
+Dundes, Alan. "{{% resource_link "2ac6d677-16ad-496c-a577-464537e26362" "Bruno Bettelheim's Uses of Enchantment and Abuses of Scholarship" %}}." _The Journal of American Folklore_ 104, no. 411 (1991): 74–83.
 
-Zipes, Jack. "[On the Use and Abuse of Folk and Fairy Tales with Children](http://dx.doi.org/10.1353/chq.1978.0001)." _Children's Literature Association Quarterly_ (1978): 113–22. (Johns Hopkins University Press)
+Zipes, Jack. "{{% resource_link "63554c49-d3d1-4b74-bdd5-8cac48e87722" "On the Use and Abuse of Folk and Fairy Tales with Children" %}}." _Children's Literature Association Quarterly_ (1978): 113–22. (Johns Hopkins University Press)
 
 
 {{< tdclose >}}
@@ -250,13 +248,13 @@ Marie–Louise von Franz, Jungian Theory and the Fairy Tale
 {{< tdopen >}}
 
 
-McLeod, Saul. "[Carl Jung](http://www.simplypsychology.org/carl-jung.html)." _SimplyPsychology_ 2014.
+McLeod, Saul. "{{% resource_link "93f8a723-dc30-4a82-85ae-08b695534fbd" "Carl Jung" %}}." _SimplyPsychology_ 2014.
 
 Hall, Calvin S., and Vernon J. Nordby. _A Primer of Jungian Psychology_. Taplinger Publishing Company, 1973. ISBN: 9780800865542.
 
 \[V\] Chapters 1–5: Preface, pp. 1–113.
 
-Betts, John. "[Jungian Fairy Tale Interpretation](http://jungian.ca/fairy-tale-interpretation/)." _Jungian Psychoanalysis_.
+Betts, John. "{{% resource_link "44bdf4f9-b532-4417-b4c5-53890abef5be" "Jungian Fairy Tale Interpretation" %}}." _Jungian Psychoanalysis_.
 
 
 {{< tdclose >}}
@@ -286,7 +284,7 @@ The Literary Fairy Tale: Hans Christian Andersen and After
 
 \[V\] pp. 212–61.
 
-Dahlerup, Pil, Ulla Thomsen, et al. "[Splash!: Six Views of "The Little Mermaid."](http://www.jstor.org/stable/40919202)" _Scandinavian Studies_ 62, no. 4 (1990): 403–29. (University of Illinois Press.)
+Dahlerup, Pil, Ulla Thomsen, et al. "{{% resource_link "08832368-eee4-4297-a37d-cb5e18e32def" "Splash!: Six Views of \"The Little Mermaid.\"" %}}" _Scandinavian Studies_ 62, no. 4 (1990): 403–29. (University of Illinois Press.)
 
 
 {{< tdclose >}}
@@ -344,7 +342,7 @@ Abuse of the Fairy Tale?: The Nazis and German Folklore, Christa Kamenetsky
 {{< tdopen >}}
 
 
-Kamenetsky, Christa. "[Folktale and Ideology in the Third Reich](http://www.jstor.org/stable/539697)." _The Journal of American Folklore_ 90, no. 356 (1977): 168–78. (American Folklore Society.)
+Kamenetsky, Christa. "{{% resource_link "f36befcb-3164-4d17-ae70-de6b51ec766f" "Folktale and Ideology in the Third Reich" %}}." _The Journal of American Folklore_ 90, no. 356 (1977): 168–78. (American Folklore Society.)
 
 \[K\] "Folktale, Germandom and Race." Pp. 70–81.
 
